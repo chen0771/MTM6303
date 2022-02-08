@@ -1,0 +1,21 @@
+#jstimer {
+  text-align: center;
+}
+
+div#clockdiv span.minutes {
+  color: white;
+  padding:10px 0 10px 10px;
+  background-color: darkolivegreen;
+}
+
+div#clockdiv span#second {
+  color: white;
+  padding:10px 10px 10px 0px;
+  background-color: darkolivegreen;
+}
+
+div#clockdiv span {
+  color: white;
+  padding:10px 0px 10px 0px;
+  background-color: darkolivegreen;
+}

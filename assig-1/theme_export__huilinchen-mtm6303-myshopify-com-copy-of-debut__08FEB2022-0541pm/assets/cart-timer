@@ -1,0 +1,17 @@
+
+<div id="jstimer">
+  <h5>Time remaining:</h5>
+	<div id="clockdiv" style="Background=black;">
+	  <span id="left">
+		<span class="minutes"></span>
+		<span class="smalltext">Minutes</span>
+	  </span>
+	  <span id="right">
+		<span class="seconds"></span>
+		<span class="smalltext">Seconds</span>
+	  </span>
+	</div>
+</div>
+
+
+
